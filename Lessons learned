@@ -1,5 +1,5 @@
 Ovah v0.1:
-- Missing inverted Inverted plolarity diode.
+- Missing inverted plolarity protection diode.
 - Any signal shaping pots should be linear.
 - Calculate the output signal such that Vo > 200 mV
 
