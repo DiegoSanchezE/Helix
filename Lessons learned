@@ -2,6 +2,7 @@ Ovah v0.1:
 - Missing inverted plolarity protection diode.
 - Any signal shaping pots should be linear.
 - Calculate the output signal such that Vo > 200 mV
+- The breadboard is a capacitor! Make sure the ground loop is as close to the circuit as possible.
 
 Ovah v1.1:
 - Rotate the layout to be easy to read.
